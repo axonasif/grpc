@@ -1,0 +1,7 @@
+image:
+  file: .github/.gitpod.Dockerfile
+
+tasks:
+  - name: Build all targets and cache the artifacts
+    init: |
+      bazel build :all
