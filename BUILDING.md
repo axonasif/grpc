@@ -6,9 +6,9 @@ Other should follow the user instructions. See the [How to use](https://github.c
 
 # Getting Started with Gitpod
 
-To start, open this link: [https://gitpod.io/#github.com/grpc/grpc](https://gitpod.io/#github.com/grpc/grpc) to create a Gitpod workspace for this repository.
+To quickly start, open this link: [https://gitpod.io/#github.com/grpc/grpc](https://gitpod.io/#github.com/grpc/grpc) to create a CDE for this repository.
 
-A [CDE](https://www.gitpod.io/cde) will be created for you with your preferred editor (such as VSCode, Jetbrains, or SSH/xtermjs). All the necessary dependencies are automatically installed, and the grpc source code will be pre-built according to the [.gitpod.yml](/.gitpod.yml) file, this allows you to get started in just a few seconds. When using Gitpod, you can directly proceed to the [Building with Bazel](/BUILDING.md#building-with-bazel-recommended) step.
+A [CDE](https://www.gitpod.io/cde) will be created for you with your preferred editor (such as VSCode, Jetbrains, or SSH). All the necessary dependencies are automatically installed, and the grpc source code will be pre-built according to the [.gitpod.yml](/.gitpod.yml) file, this allows you to get started in just a few seconds. When using Gitpod, you can directly refer to the [Building with Bazel](/BUILDING.md#building-with-bazel-recommended) step.
 
 # Pre-requisites
 
