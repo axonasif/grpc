@@ -4,6 +4,12 @@ gRPC C++ - Building from source
 This document has detailed instructions on how to build gRPC C++ from source. Note that it only covers the build of gRPC itself and is meant for gRPC C++ contributors and/or power users. 
 Other should follow the user instructions. See the [How to use](https://github.com/grpc/grpc/tree/master/src/cpp#to-start-using-grpc-c) instructions for guidance on how to add gRPC as a dependency to a C++ application (there are several ways and system-wide installation is often not the best choice).
 
+# Getting Started with Gitpod
+
+To start, open this link: [https://gitpod.io/#github.com/grpc/grpc](https://gitpod.io/#github.com/grpc/grpc) to create a Gitpod workspace for this repository.
+
+A [CDE](https://www.gitpod.io/cde) will be created for you with your preferred editor (such as VSCode, Jetbrains, or SSH/xtermjs). All the necessary dependencies are automatically installed, and the grpc source code will be pre-built according to the [.gitpod.yml](/.gitpod.yml) file, this allows you to get started in just a few seconds. When using Gitpod, you can directly proceed to the [Building with Bazel](/BUILDING.md#building-with-bazel-recommended) step.
+
 # Pre-requisites
 
 ## Linux
